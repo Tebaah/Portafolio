@@ -1,0 +1,25 @@
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 3rem;
+    height: 80vh;
+}
+.img__photo{
+    border-radius: 100%;
+    opacity: 0.8;
+}
+.home__text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.text__name{
+    font-family: 'Racing Sans One', cursive;
+    font-size: 140px;
+}
+.text__description{
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 42px;
+}

@@ -1,0 +1,18 @@
+.home__nav{
+    display: flex;
+    margin: 1rem 3rem;
+    justify-content: flex-end;
+    align-items: center;
+    height: 5vh;
+}
+.nav__list{
+    display: flex;
+}
+.list__item{
+    margin: 0 1rem;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 20px;        
+}
+.list__link{
+    text-decoration: none;
+}
