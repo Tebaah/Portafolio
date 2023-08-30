@@ -23,3 +23,9 @@
     font-family: 'Share Tech Mono', monospace;
     font-size: 42px;
 }
+.home__socialmedia{
+    margin: 2rem;
+}
+.list__img{
+    width: 40px;
+}
