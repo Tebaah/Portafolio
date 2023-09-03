@@ -1,0 +1,10 @@
+.home__skill{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+/* mientras pongo las clases */
+section{
+    margin: 1rem;
+}
