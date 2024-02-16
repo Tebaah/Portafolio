@@ -1,0 +1,22 @@
+
+/* Barra de navegacion */
+
+.navbar{
+    padding: 1rem;
+    background-color: blue;
+}
+
+.navbar-collapse{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn{
+    margin: 1px;
+}
+
+@media screen and (max-width: 767px) {
+    .navbar-brand{
+        display: none;
+    }
+}
